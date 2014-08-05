@@ -1,0 +1,4 @@
+skeleton
+========
+
+simple android application 
